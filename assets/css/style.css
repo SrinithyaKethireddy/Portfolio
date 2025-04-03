@@ -32,6 +32,18 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
+.Email {
+  font-size: 24px; /* Adjust size as needed */
+  color: #333; /* Icon color */
+}
+
+.Email i {
+  margin-right: 8px; /* Space between icon and symbol */
+}
+
+.Email span {
+  font-size: 20px; /* Adjust size of the email symbol */
+}
 
 /*--------------------------------------------------------------
 # Back to top button
