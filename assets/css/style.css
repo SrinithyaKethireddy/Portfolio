@@ -44,6 +44,21 @@ h6 {
 .Email span {
   font-size: 20px; /* Adjust size of the email symbol */
 }
+.loading {
+  display: none;
+  color: #007bff;
+}
+
+.error-message {
+  display: none;
+  color: red;
+}
+
+.sent-message {
+  display: none;
+  color: green;
+}
+
 
 /*--------------------------------------------------------------
 # Back to top button
